@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : SentryGo                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : TeslaCam on the go.
+app_description                           : View, share and store sentry/DashCam clips on the go.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Share
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : SentryGo will stich and export full clips from each camera to share with a tap of a button.
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
