@@ -9,9 +9,9 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : SentryGo                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : TeslaCam on your iPhone.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Jean Pierre
 your_link                                 :
-your_city                                 : Dallas 🌎
+your_city                                 : 🌎
 email_address                             : support@sentrygo.app
 facebook_username                         :                                           
 instagram_username                        :
@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Viewer
     description                           : With picture in picture you can easily see all angles at the same time.
-    fontawesome_icon_name                 : fa-play-circle-o
+    fontawesome_icon_name                 : play-circle-o
 
 
 
