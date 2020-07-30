@@ -42,7 +42,7 @@ features                                  :
     description                           : Search for any clip by name.
     fontawesome_icon_name                 : search
 
-  - title                                 : Viewer
+  - title                                 : Watch
     description                           : With picture in picture you can easily see all camera angles at the same time.
     fontawesome_icon_name                 : play
 
