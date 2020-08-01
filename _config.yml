@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : share
     
   - title                                 : Search
-    description                           : Search for any clip by name.
+    description                           : Search for any clip by city name or date.
     fontawesome_icon_name                 : search
 
   - title                                 : Watch
